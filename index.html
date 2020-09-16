@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>오픈소스 수도권 지하철 노선도</title>
+</head>
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+	.mapImage{
+		transform-origin:top left;
+		transition:transform .3s;
+	}
+</style>
+<body>
+	<object class="mapImage" alt="서울지하철노선도" data="mapimage.svg"></object>
+</body>
+<script>
+	alert('+/- 키를 누르시면 노선도를 확대 축소하실 수 있습니다.')
+	
+	let $zoom = 1;
+
+	function mapZoom(){
+		document.querySelector('.mapImage').style.transform='scale(' + $zoom + ')'
+	}
+
+	addEventListener('keydown',function(event){
+		if(event.key === '+'){
+			$zoom += .2
+		}
+		else if(event.key === '='){
+			$zoom += .2
+		}
+		else if(event.key === '-'){
+			$zoom -= .2
+		}
+		else if(event.key === '_'){
+			$zoom -= .2
+		}
+
+		mapZoom();
+	})
+
+</script>
+</html>
