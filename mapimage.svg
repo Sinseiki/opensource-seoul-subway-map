@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1180 1080" style="enable-background:new 0 0 1180 1080;" xml:space="preserve">
 <style type="text/css">
@@ -31,7 +31,7 @@
 	.st25{fill:#FFFFFF;stroke:#333333;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st26{fill:#005DAA;}
 	.st27{fill:#FFFFFF;}
-	.st28{font-family:'Noto Sans KR','NotoSansKR-Medium-KSCpc-EUC-H',sans-serif;}
+	.st28{font-family:'NotoSansKR-Regular-KSCpc-EUC-H';}
 	.st29{font-size:4.3077px;}
 	.st30{fill:#00A44A;}
 	.st31{fill:#677718;}
@@ -305,7 +305,7 @@
 	<line class="st10" x1="329" y1="492" x2="309.8" y2="472.8"/>
 </g>
 <g>
-	<line class="st10" x1="126.5" y1="907.5" x2="85" y2="866"/>
+	<line class="st10" x1="126.5" y1="907.5" x2="74.3" y2="855.3"/>
 </g>
 <g>
 	<line class="st10" x1="329.1" y1="508.1" x2="313.1" y2="524.1"/>
@@ -1334,7 +1334,7 @@
 <text transform="matrix(0.6905 -0.6905 0.7071 0.7071 876.5756 569.5751)" class="st38 st28 st39">로데오</text>
 <text transform="matrix(0.6905 -0.6905 0.7071 0.7071 970.1818 555.1807)" class="st38 st28 st39">구의</text>
 <text transform="matrix(0.6905 -0.6905 0.7071 0.7071 991.1823 559.1815)" class="st38 st28 st39">강변</text>
-<text transform="matrix(0.6905 -0.6905 0.7071 0.7071 973.1816 589.1806)" class="st38 st28 st39">잠실나루</text>
+<text transform="matrix(0.6905 -0.6905 0.7071 0.7071 973.1816 589.1815)" class="st38 st28 st39">잠실나루</text>
 <text transform="matrix(0.6905 -0.6905 0.7071 0.7071 958.1818 611.1812)" class="st38 st28 st39">잠실새내</text>
 <text transform="matrix(0.6905 -0.6905 0.7071 0.7071 926.1821 615.1813)" class="st38 st28 st39">삼성</text>
 <text transform="matrix(0.6905 -0.6905 0.7071 0.7071 905.1816 616.1813)" class="st38 st28 st39">선릉</text>
@@ -2482,9 +2482,9 @@
 <text transform="matrix(1 0 0 1 1019.0957 62.7363)" class="st27 st28 st84">의정부</text>
 <circle class="st83" cx="950.5" cy="49.5" r="3.5"/>
 <text transform="matrix(1 0 0 1 948.0957 50.7363)" class="st27 st28 st84">의정부</text>
-<circle class="st37" cx="78.5" cy="860.5" r="3.5"/>
-<text transform="matrix(1 0 0 1 76.0962 859.7363)" class="st27 st28 st34">인천</text>
-<text transform="matrix(1 0 0 1 76.0962 862.9663)" class="st27 st28 st34">   1</text>
+<circle class="st37" cx="67" cy="847.5" r="3.5"/>
+<text transform="matrix(1 0 0 1 64.5741 846.75)" class="st27 st28 st34">인천</text>
+<text transform="matrix(1 0 0 1 64.5741 849.98)" class="st27 st28 st34">   1</text>
 <circle class="st85" cx="52.5" cy="433.5" r="3.5"/>
 <text transform="matrix(1 0 0 1 50.0962 432.7363)" class="st27 st28 st34">인천</text>
 <text transform="matrix(1 0 0 1 50.0962 435.9663)" class="st27 st28 st34">   2</text>
@@ -3010,6 +3010,9 @@
 <text transform="matrix(1.1599 0 0 1 111.2451 892.5005)" class="st59"><tspan x="0" y="0" class="st37 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st37 st28 st87">136</tspan></text>
 <text transform="matrix(1.1599 0 0 1 98.1641 879.4995)" class="st59"><tspan x="0" y="0" class="st37 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st37 st28 st87">137</tspan></text>
 <text transform="matrix(1.1599 0 0 1 85.2451 866.4995)" class="st59"><tspan x="0" y="0" class="st37 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st37 st28 st87">138</tspan></text>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 50.0968 879.8185)" class="st38 st28 st39">송도달빛축제공원</text>
+<circle class="st50" cx="72.8" cy="854.1" r="2"/>
+<text transform="matrix(1.1599 0 0 1 72.5065 854.0586)" class="st59"><tspan x="0" y="0" class="st37 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st37 st28 st87">139</tspan></text>
 <text transform="matrix(1.1599 0 0 1 183.2454 723.0295)" class="st59"><tspan x="0" y="0" class="st85 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st85 st28 st87">219</tspan></text>
 <text transform="matrix(1.1599 0 0 1 223.2449 723.0002)" class="st59"><tspan x="0" y="0" class="st85 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st85 st28 st87">220</tspan></text>
 <text transform="matrix(1.1599 0 0 1 269.2449 723.0297)" class="st59"><tspan x="0" y="0" class="st85 st28 st87">I</tspan><tspan x="-1" y="1.3" class="st85 st28 st87">222</tspan></text>
