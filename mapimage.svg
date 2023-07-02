@@ -1667,7 +1667,7 @@
 <circle class="st40" cx="764.5" cy="483.5" r="2"/>
 <circle class="st45" cx="767.5" cy="501.5" r="2"/>
 <circle class="st45" cx="691.5" cy="501.5" r="2"/>
-<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 452.0004 438.1967)" class="st37 st28 st38">방화</text>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 451.9934 438.2709)" class="st37 st28 st38">방화</text>
 <circle class="st46" cx="449.5" cy="431.5" r="2"/>
 <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 440.2328 449.8449)" class="st37 st28 st38">개화산</text>
 <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 423.4779 496.8815)" class="st37 st28 st38">김포공항</text>
@@ -3173,4 +3173,6 @@
 <text transform="matrix(1.1599 0 0 1 891.1764 494.4564)" class="st42"><tspan x="0" y="0" class="st30 st28 st87">211</tspan><tspan x="0.6" y="1.3" class="st30 st28 st87">-2</tspan></text>
 <text transform="matrix(1.1599 0 0 1 871.0514 491.4998)" class="st42"><tspan x="0" y="0" class="st30 st28 st87">211</tspan><tspan x="0.6" y="1.3" class="st30 st28 st87">-3</tspan></text>
 <circle class="st25" cx="439.5" cy="580.5" r="3"/>
+<circle class="st32" cx="339" cy="182" r="3.5"/>
+<text transform="matrix(1 0 0 1 335.736 183.595)" class="st27 st28 st72">서해</text>
 </svg>
